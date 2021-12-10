@@ -16,12 +16,12 @@
 
 @media (min-width: 760px) {
     #intro-example {
-      height: 500px;
+      height: 600px;
     }
   }
 
 @media (min-width: 992px) {
   #intro-example {
-    height: 700px;
+    height: 800px;
   }
 }
